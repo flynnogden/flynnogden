@@ -1,1 +1,1 @@
-### :palm_tree: Flynn Ogden:squirrel:
+### :palm_tree: Flynn Ogden :squirrel:
