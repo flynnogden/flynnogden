@@ -10,4 +10,3 @@ I'm an aspiring full-stack developer with self-taught and educational coding exp
 
 #
 
-f
