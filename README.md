@@ -10,3 +10,6 @@ I'm an aspiring full-stack developer with self-taught and educational coding exp
 
 #
 
+<details>
+  <summary><h3>🏄 My Coding Journey</h3></summary>
+   asdas
