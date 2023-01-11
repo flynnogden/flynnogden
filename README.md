@@ -7,5 +7,4 @@ I'm an aspiring full-stack developer with self-taught and educational coding exp
 ### 🧰 Languages and Tools
 
 <img algin="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>           <img algin="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-
 #
