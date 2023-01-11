@@ -5,3 +5,5 @@ I'm an aspiring full-stack developer with self-taught and educational coding exp
 ---
 
 ### 🧰 Languages and Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
